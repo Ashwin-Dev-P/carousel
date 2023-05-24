@@ -66,3 +66,10 @@ body {
 .my-m-5 {
 	margin: 5%;
 }
+
+.my-warning-text {
+	color: red;
+	text-align: center;
+	padding: 25px;
+	margin: 20px;
+}
